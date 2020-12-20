@@ -1,0 +1,39 @@
+body {
+	background-color: #D6D6D6 !important;
+}
+.col1{
+	background-color: #FFFFFF;
+}
+
+.col1 h6 {
+	font-size: 10px;
+}
+
+.navbar {
+	background-color: #393939;
+}
+
+.fa-circle {
+		color: #D6D6D6;
+}
+.fa-search {
+	margin-left: auto;
+	color: #D6D6D6;
+}
+
+.nav-link {
+	font-size: 10px;
+}
+
+.row2 {
+	background-color: #393939;
+}
+
+.row3 {
+	background-color: #FFFFFF;
+}
+
+.fa-square {
+	color: #D6D6D6;
+}
+
